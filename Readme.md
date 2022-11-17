@@ -42,12 +42,12 @@ let pascal = new nCk.Pascal();
 
 let visitor = {
     onResult: function(nckd) {
-		console.log(nckd.row.toString() + " : " + nckd.result.toString());
+        console.log(nckd.row.toString() + " : " + nckd.result.toString());
 	},
-	goFalse: function(nckd) {
-		return true;
+    goFalse: function(nckd) {
+	    return true;
 	},
-	goTrue: function(nckd) {
+    goTrue: function(nckd) {
 		return true;
 	}
 }
