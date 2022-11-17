@@ -1,0 +1,20 @@
+{
+  "name": "nck-pascal",
+  "version": "1.0.0",
+  "description": "Calculates combinations by visiting Pascal's triangle",
+  "author": "Pedro Ribeiro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "nck-pascal"
+  },
+  "keywords": [
+    "nck",
+    "pascal",
+    "math"
+  ],
+  "main": "dist/nCk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
