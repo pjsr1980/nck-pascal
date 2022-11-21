@@ -2,7 +2,7 @@
   "name": "nck-pascal",
   "version": "1.0.1",
   "description": "Calculates combinations by visiting Pascal's triangle",
-  "author": "Pedro Ribeiro",
+  "author": "Pedro Ribeiro (pjsr1980@gmail.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
