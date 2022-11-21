@@ -7,7 +7,9 @@
 >
 > It started with a recursive implementation, but for **N greater than 1500** it gave an error, so an array of states was created that is used in a while loop.
 >
-> If you like this library, if it helps you solve a problem, and you have the possibility, **[offer me a coffee](https://donate.stripe.com/7sIfZ5f36doAe9a8wx "pjsr coffee")**.
+> If you like this library, if it helps you solve a problem, and you have the possibility, **[offer a coffee](https://donate.stripe.com/7sIfZ5f36doAe9a8wx "pjsr coffee")**.
+>
+> You can see a test page at **[https://pjsr1980.github.io/nck-pascal](https://pjsr1980.github.io/nck-pascal)**
 
 To use the library it is necessary to create a **nckVisitor** with the following functions:
 
