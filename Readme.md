@@ -1,5 +1,5 @@
 
-# nck-pascal
+# @pjsr/nck-pascal
 
 > The **nck-pascal** library is the result of a personal investigation of **Pascal's triangle** that began in college and lasted for a few years. I was pleased when **all the rules** defining the criteria for **visiting Pascal's triangle** were implemented.
 >
